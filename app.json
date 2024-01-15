@@ -1,0 +1,32 @@
+{
+  "id": "cf2fd14f-7c16-49ff-9082-ba58da46716f",
+  "name": "BonTransport",
+  "publisher": "SBS",
+  "version": "2.0.0.0",
+  "brief": "Brief Description of Extension - Please update",
+  "description": "Long Description of Extension - Please update",
+  "privacyStatement": "https://www.norriq.be/",
+  "EULA": "https://www.norriq.be/",
+  "help": "https://www.norriq.be/",
+  "url": "https://www.norriq.be/",
+  "logo": "./logo/logo.png",
+  "screenshots": [],
+  "platform": "21.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70149
+    }
+  ],
+  "contextSensitiveHelpUrl":  "https://www.norriq.be/",
+"runtime": "9.2",
+  "target":  "Cloud",
+  "features":  [
+                   "NoImplicitWith",
+                   "TranslationFile"
+               ],
+  "suppressWarnings":  [
+                           "AA0072"
+                       ]
+}
