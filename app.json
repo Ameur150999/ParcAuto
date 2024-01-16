@@ -15,8 +15,8 @@
   "application": "21.0.0.0",
   "idRanges": [
     {
-      "from": 70100,
-      "to": 70149
+      "from": 771000,
+      "to": 771149
     }
   ],
   "contextSensitiveHelpUrl":  "https://www.norriq.be/",

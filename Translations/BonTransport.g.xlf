@@ -2,7 +2,28 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="en-US" original="BonTransport">
     <body>
-      <group id="body" />
+      <group id="body">
+        <trans-unit id="Table 1193173812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vehicle</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1496902179 - Control 2016694080 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Specifies the value of the CIN field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt - Control CIN - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1713901351 - Field 2016694080 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>CIN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerExt - Field CIN - Property Caption</note>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
